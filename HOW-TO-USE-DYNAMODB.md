@@ -77,3 +77,9 @@
      }
    ]
 3. Ensure all the items added are visible in the scan results.
+
+- **Query Results:**
+  ![Query Results Screenshot](screenshots/query.jpg)
+
+- **Scan Results:**
+  ![Scan Results Screenshot](screenshots/all-scan.jpg)
